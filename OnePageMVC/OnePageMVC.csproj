@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\animate.css" />
+    <None Include="wwwroot\assets\css\bootstrap.min.css" />
+    <None Include="wwwroot\assets\css\glightbox.min.css" />
+    <None Include="wwwroot\assets\css\LineIcons.2.0.css" />
+    <None Include="wwwroot\assets\css\main.css" />
+    <None Include="wwwroot\assets\css\tiny-slider.css" />
+    <None Include="wwwroot\assets\fonts\LineIcons.eot" />
+    <None Include="wwwroot\assets\fonts\LineIcons.svg" />
+    <None Include="wwwroot\assets\fonts\LineIcons.ttf" />
+    <None Include="wwwroot\assets\fonts\LineIcons.woff" />
+    <None Include="wwwroot\assets\fonts\LineIcons.woff2" />
+    <None Include="wwwroot\assets\images\favicon.svg" />
+    <None Include="wwwroot\assets\images\hero\phone.png" />
+    <None Include="wwwroot\assets\images\logo\logo.svg" />
+    <None Include="wwwroot\assets\images\logo\white-logo.svg" />
+    <None Include="wwwroot\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\count-up.min.js" />
+    <None Include="wwwroot\assets\js\glightbox.min.js" />
+    <None Include="wwwroot\assets\js\main.js" />
+    <None Include="wwwroot\assets\js\tiny-slider.js" />
+    <None Include="wwwroot\assets\js\wow.min.js" />
+    <None Include="wwwroot\assets\mail\mail.php" />
+  </ItemGroup>
+
+</Project>
